@@ -1,0 +1,3 @@
+axi_interfaces_AXILiteS_s_axi
+axi_interfaces_gmem_m_axi
+axi_interfaces

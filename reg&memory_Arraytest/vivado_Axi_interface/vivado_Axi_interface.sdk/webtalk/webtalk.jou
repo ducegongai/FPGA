@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# 
+# Start of session at: Mon Jul  2 22:46:50 2018
+# Process ID: 18656
+# Current directory: C:/Users/lmh/VivadoProject/vivado_Axi_interface/vivado_Axi_interface.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/Users/lmh/VivadoProject/vivado_Axi_interface/vivado_Axi_interface.sdk/webtalk/webtalk.log
+# Journal file: C:/Users/lmh/VivadoProject/vivado_Axi_interface/vivado_Axi_interface.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
