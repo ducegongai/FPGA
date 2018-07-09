@@ -1,0 +1,11 @@
+pr.c            # partial reconfiguration in ARM system
+load.c          # load bin file to memory
+get.c           # get value from memory
+load_const.c    # load constant value to memory
+rw.c            # read or write memory mapped address
+load_bmp.c      # load bmp picture to memory, picture's size should be 800 * 600
+load_bmp_ad.c   # load bmp picture to memory, get picture's size automatically
+down_bmp.c      # down bmp picture from memory
+bmp2grey.c      # convert bmp picture to grey, and run image edge detection algorithm
+iic_rw.c        # read or write iic
+auto_prc.c      # automatically reconfig partitial logic, and do some operation necessarily

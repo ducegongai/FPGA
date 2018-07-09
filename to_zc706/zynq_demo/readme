@@ -1,0 +1,13 @@
+xdev_test.sh        # config logic in arm system
+config.sh           # config PCAP or ICAP
+config_prc.sh       # config logic and set prc configuration
+ov_iic.sh           # ov7670 iic read and write
+io_iic.sh           # IO card iic read and write
+si570_iic.sh        # si570 iic read and write, frequency config
+adv7511_iic.sh      # adv7511 iic read and write, hdmi config
+tk_pr.sh            # user0 reconfig, parameter is logic id
+io_pr.sh            # user1 reconfig, parameter is logic id
+bit_write.sh        # bit write
+showpic.sh          # show a picture on hdmi
+test.sh             # vga test script
+working.sh          # execute auto_pr every 1 second

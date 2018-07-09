@@ -1,0 +1,7 @@
+pr_test.sh              # test partial reconfiguration
+check_prc.sh            # check prc status
+uart_test.sh            # test uart
+iic_test.sh             # test iic
+check_iic.sh            # check iic status
+can_test.sh             # test can
+freq_test.sh            # frequency test
