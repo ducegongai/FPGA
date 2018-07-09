@@ -1,0 +1,12 @@
+load_drive              # load xdma driver, prepare script 
+config_prc.sh           # config prc
+pr_test.sh              # test partial reconfiguration
+check_prc.sh            # check prc status
+irq_listen.sh           # listening int of xdma
+uart_test.sh            # test uart
+iic_test.sh             # test iic
+check_iic.sh            # check iic status
+can_test.sh             # test can
+rs_dev_off.sh           # turn off all switch
+rs_dev_on.sh            # turn on all switch
+can_dev_send.sh         # send a frame 
